@@ -36,11 +36,7 @@ Using Tableau's interactive capabilities such as **filters, maps, KPI cards, and
 ---
 # 📌 Demo
 
-<p align="center">
-  <a href="https://youtu.be/uZYrHbfYDpw">
-    <img src="https://img.youtube.com/vi/uZYrHbfYDpw/maxresdefault.jpg" alt="Watch Demo" width="800">
-  </a>
-</p>
+[![Demo](https://img.youtube.com/vi/uZYrHbfYDpw/0.jpg)](https://youtu.be/uZYrHbfYDpw)
 
 ---
 
