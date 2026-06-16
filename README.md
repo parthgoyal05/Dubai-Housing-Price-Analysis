@@ -112,7 +112,7 @@ Based on the dashboard analysis:
 
 # 🏁 Conclusion
 
-The **Dubai Real Estate Intelligence Dashboard** demonstrates how **Business Intelligence tools like Power BI** can transform raw property listing data into meaningful insights.
+The **Dubai Real Estate Intelligence Dashboard** demonstrates how **Business Intelligence tools like Tableau** can transform raw property listing data into meaningful insights.
 
 By combining **data cleaning, calculated metrics, and interactive visualizations**, the dashboard enables users to:
 
